@@ -1,0 +1,1 @@
+ // Mencetak 'angka' akan menampilkan alamat memori yang disimpannya.
